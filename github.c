@@ -1,3 +1,4 @@
+#include <stdio.h>
 int main()
 {
     int amount,bill,quotient,reminder;
